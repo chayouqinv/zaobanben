@@ -4,7 +4,7 @@
     "keywords": ["banbendi"],
     "env": {
         "AA": {
-            "description": "modify id
+            "description": "modify id"
             "value": "check id"
         },
         "AUUID": {
