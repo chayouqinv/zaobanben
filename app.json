@@ -1,38 +1,38 @@
 {
     "name": "banbendi",
-    "description": "banbendi",
+    "description": "",
     "keywords": ["banbendi"],
     "env": {
         "AA": {
-            "description": "modify id"
-            "value": "check id"
+            "description": "id",
+            "value": "check and try"
         },
         "AUUID": {
-            "description": "ID",
-            "value": "ssffs2-tddd3323423-fwe3-www414"
+            "description": "UUID",
+            "value": "fs333safs2-twsfdf-3323423-fwe3-334dss4"
         },
         "CADDYIndexPage": {
-            "description": "k page",
+            "description": "view page",
             "value": "https://github.com/"
         },
         "CONFIGCADDY": {
             "description": "",
-            "value": "https://raw.githubusercontent.com/444/444/main/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/4245/4245/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "",
-            "value": "https://raw.githubusercontent.com/444/4445/main/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/4245/4245/main/etc/xray.json"
         },
         "ParameterSSENCYPT": {
-            "description": "SxS",
+            "description": "SS",
             "value": "chacha20-ietf-poly1305"
         },
         "StoreFiles": {
             "description": "",
-            "value": "https://raw.githubusercontent.com/44444/4445/main/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/4245/4245/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/44445",
-    "repository": "https://github.com/44445",
+    "website": "https://github.com/42245",
+    "repository": "https://github.com/42245",
     "stack": "container"
 }
