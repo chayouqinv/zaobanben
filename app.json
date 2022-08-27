@@ -1,0 +1,38 @@
+{
+    "name": "banbendi",
+    "description": "banbendi",
+    "keywords": ["banbendi"],
+    "env": {
+        "AA": {
+            "description": "modify id
+            "value": "check id"
+        },
+        "AUUID": {
+            "description": "ID",
+            "value": "ssffs2-tddd3323423-fwe3-www414"
+        },
+        "CADDYIndexPage": {
+            "description": "k page",
+            "value": "https://github.com/"
+        },
+        "CONFIGCADDY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/444/444/main/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/444/4445/main/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SxS",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/44444/4445/main/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/44445",
+    "repository": "https://github.com/44445",
+    "stack": "container"
+}
